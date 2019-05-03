@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3048036005225079002
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6111150019917419594}
+  - component: {fileID: 6244420756462884328}
+  m_Layer: 0
+  m_Name: BagGame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6111150019917419594
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3048036005225079002}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.7870387, y: 3.7265248, z: -0.025961092}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6244420756462884328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3048036005225079002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185aad2b7a55e4042842d039eb7af606, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textAnimation: {fileID: 0}
+  winStrings:
+  - Re-using your bag saves the resources
+  - Re-using your bag prevents unnecessary waste
+  loseStrings:
+  - Forgetting your bag home leads to buying new bags unnecessarily
+  - Forgetting to re-use your bag creates plastic waste
+  player: {fileID: 0}
+  hand: {fileID: 0}
+  bag: {fileID: 0}
+  bagNub: {fileID: 0}

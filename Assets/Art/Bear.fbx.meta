@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 11e520a0e2045f643a89e72ebedb8787
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm IK.L
+    100002: Arm IK.R
+    100004: Arm Lower.L
+    100006: Arm Lower.R
+    100008: arm pole Target.L
+    100010: arm pole Target.R
+    100012: Arm Upper.L
+    100014: Arm Upper.R
+    100016: Armature Bear
+    100018: //RootNode
+    100020: Bear Body
+    100022: Bear Cape
+    100024: Bear Eyes
+    100026: Bear Head
+    100028: Bear Teeth
+    100030: Body Lower
+    100032: Body Upper
+    100034: Cape
+    100036: Ears
+    100038: Eyes.L
+    100040: Eyes.R
+    100042: Foot.L
+    100044: Foot.R
+    100046: Hand.Finger.A1.L
+    100048: Hand.Finger.A1.R
+    100050: Hand.Finger.A2.L
+    100052: Hand.Finger.A2.R
+    100054: Hand.Finger.B1.L
+    100056: Hand.Finger.B1.R
+    100058: Hand.Finger.B2.L
+    100060: Hand.Finger.B2.R
+    100062: Hand.Finger.C1.L
+    100064: Hand.Finger.C1.R
+    100066: Hand.Finger.C2.L
+    100068: Hand.Finger.C2.R
+    100070: Hand.L
+    100072: Hand.R
+    100074: Hand.Thumb.1.L
+    100076: Hand.Thumb.1.R
+    100078: Hand.Thumb.2.L
+    100080: Hand.Thumb.2.R
+    100082: Head
+    100084: Leg IK.L
+    100086: Leg IK.R
+    100088: Leg Lower.L
+    100090: Leg Lower.R
+    100092: Leg Upper.L
+    100094: Leg Upper.R
+    100096: pole Target.L
+    100098: pole Target.R
+    100100: Root
+    100102: backup.032
+    100104: backup
+    100106: Cape_end
+    100108: Ears_end
+    100110: Eyes.L_end
+    100112: Eyes.R_end
+    100114: Foot.L_end
+    100116: Foot.R_end
+    100118: Hand.Finger.A2.L_end
+    100120: Hand.Finger.A2.R_end
+    100122: Hand.Finger.B2.L_end
+    100124: Hand.Finger.B2.R_end
+    100126: Hand.Finger.C2.L_end
+    100128: Hand.Finger.C2.R_end
+    100130: Hand.Thumb.2.L_end
+    100132: Hand.Thumb.2.R_end
+    400000: Arm IK.L
+    400002: Arm IK.R
+    400004: Arm Lower.L
+    400006: Arm Lower.R
+    400008: arm pole Target.L
+    400010: arm pole Target.R
+    400012: Arm Upper.L
+    400014: Arm Upper.R
+    400016: Armature Bear
+    400018: //RootNode
+    400020: Bear Body
+    400022: Bear Cape
+    400024: Bear Eyes
+    400026: Bear Head
+    400028: Bear Teeth
+    400030: Body Lower
+    400032: Body Upper
+    400034: Cape
+    400036: Ears
+    400038: Eyes.L
+    400040: Eyes.R
+    400042: Foot.L
+    400044: Foot.R
+    400046: Hand.Finger.A1.L
+    400048: Hand.Finger.A1.R
+    400050: Hand.Finger.A2.L
+    400052: Hand.Finger.A2.R
+    400054: Hand.Finger.B1.L
+    400056: Hand.Finger.B1.R
+    400058: Hand.Finger.B2.L
+    400060: Hand.Finger.B2.R
+    400062: Hand.Finger.C1.L
+    400064: Hand.Finger.C1.R
+    400066: Hand.Finger.C2.L
+    400068: Hand.Finger.C2.R
+    400070: Hand.L
+    400072: Hand.R
+    400074: Hand.Thumb.1.L
+    400076: Hand.Thumb.1.R
+    400078: Hand.Thumb.2.L
+    400080: Hand.Thumb.2.R
+    400082: Head
+    400084: Leg IK.L
+    400086: Leg IK.R
+    400088: Leg Lower.L
+    400090: Leg Lower.R
+    400092: Leg Upper.L
+    400094: Leg Upper.R
+    400096: pole Target.L
+    400098: pole Target.R
+    400100: Root
+    400102: backup.032
+    400104: backup
+    400106: Cape_end
+    400108: Ears_end
+    400110: Eyes.L_end
+    400112: Eyes.R_end
+    400114: Foot.L_end
+    400116: Foot.R_end
+    400118: Hand.Finger.A2.L_end
+    400120: Hand.Finger.A2.R_end
+    400122: Hand.Finger.B2.L_end
+    400124: Hand.Finger.B2.R_end
+    400126: Hand.Finger.C2.L_end
+    400128: Hand.Finger.C2.R_end
+    400130: Hand.Thumb.2.L_end
+    400132: Hand.Thumb.2.R_end
+    2100000: No Name
+    2100002: Bear
+    4300000: Bear Teeth
+    4300002: Bear Cape
+    4300004: Bear Head
+    4300006: Bear Eyes
+    4300008: Bear Body
+    4300010: backup.032
+    4300012: backup
+    7400000: Victory 1
+    7400002: Run
+    7400004: Failure 1
+    9500000: //RootNode
+    13700000: Bear Body
+    13700002: Bear Cape
+    13700004: Bear Eyes
+    13700006: Bear Head
+    13700008: Bear Teeth
+    13700010: backup.032
+    13700012: backup
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Victory 1
+      takeName: Scene
+      firstFrame: 10
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Scene
+      firstFrame: 140
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Failure 1
+      takeName: Scene
+      firstFrame: 40
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
